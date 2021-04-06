@@ -1,0 +1,24 @@
+{
+    "tag" : [
+        {
+            "code" : "strong",
+            "syntax" : "'''",
+            "interval" : 3
+        },
+        {
+            "code" : "del",
+            "syntax" : "--",
+            "interval" : 2
+        },
+        {
+            "code" : "del",
+            "syntax" : "~~",
+            "interval" : 2
+        },
+        {
+            "code" : "ins",
+            "syntax" : "__",
+            "interval" : 2
+        }
+    ]
+}

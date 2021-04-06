@@ -1,0 +1,46 @@
+.ion-md-compass:before {
+    content: "\f2d4";
+}
+
+.ion-md-text:before {
+    content: "\f38f";
+}
+
+.ion-ios-cube:before {
+    content: "\f168";
+}
+
+.ion-ios-person:before {
+    content: "\f47e";
+}
+
+.ion-ios-shuffle:before {
+    content: "\f4a9";
+}
+
+.ion-ios-search:before {
+    content: "\f4a5";
+}
+
+.ion-ios-arrow-round-forward:before {
+    content: "\f119";
+}
+
+.ion-ios-clipboard:before {
+    content: "\f14c";
+}
+
+.ion-md-compass:before, .ion-md-text:before, 
+.ion-ios-cube:before, .ion-ios-person:before, .ion-ios-shuffle:before,
+.ion-ios-search:before, .ion-ios-arrow-round-forward, .ion-ios-clipboard:before {
+    display: inline-block;
+    font-family: Ionicons;
+    font-style: normal;
+    font-weight: 400;
+    font-feature-settings: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
